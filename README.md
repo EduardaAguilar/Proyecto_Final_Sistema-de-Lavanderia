@@ -4,12 +4,6 @@
 
 ### Universidad Internacional del Ecuador (UIDE)
 
-**Carrera:** Ingeniería en Software
-
-**Asignatura:** Lógica de Programación
-
-**Docente:** Darío Sebastián Cabezas Erazo
-
 ---
 
 ## Integrante
