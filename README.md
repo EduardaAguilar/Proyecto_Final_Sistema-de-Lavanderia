@@ -38,6 +38,7 @@ El sistema ofrece las siguientes funcionalidades:
 
 - Python
 - Visual Studio Code
+- PSeInt
 
 ---
 
